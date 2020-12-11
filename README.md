@@ -10,7 +10,7 @@
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/SanatanShukla58
-[2]: https://www.linkedin.com/in/nitin-sanatan-34274817a/
+[2]: https://www.linkedin.com/in/nitinsanatan/
 
 <!--
 **nitinsanatan/nitinsanatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
