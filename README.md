@@ -1,6 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Contact me [![Twitter][1.2]][1]  [![LinkedIn][2.2]][2]
+## Contact me 
+[![Twitter][1.2]][1]  [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 
