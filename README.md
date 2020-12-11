@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Header](https://raw.githubusercontent.com/nitinsanatan/<OWNER>/<OWNER>/header.png "Header")]
+![]header.png)
 
 ## Contact me  [![Twitter][1.2]][1]  [![LinkedIn][2.2]][2]
 
