@@ -1,6 +1,8 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![](header.png)
+
+My name is Nitin and I am a undergrad from India. I have a deep interest in Artificial Intelligence. I love interacting with humans and machines.
 
 ## Contact me  [![Twitter][1.2]][1]  [![LinkedIn][2.2]][2]
 
